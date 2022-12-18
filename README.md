@@ -1,2 +1,2 @@
 # resources
-contains image resources required for a webpage
+Contains image resources required for a webpage im working on
